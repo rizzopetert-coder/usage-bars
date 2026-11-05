@@ -1,0 +1,10 @@
+{
+  "name": "usage-bars",
+  "version": "0.1.0",
+  "description": "Always-on bars above the prompt for the session (5-hour) and weekly usage limits",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Pete Rizzo"
+  },
+  "license": "MIT"
+}
